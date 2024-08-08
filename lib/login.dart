@@ -13,7 +13,7 @@ class Login extends StatelessWidget {
             children: [
               // logo
               Icon(
-                Icons.apple_outlined,
+                Icons.local_grocery_store,
                 size: 100,
               )
             ],
